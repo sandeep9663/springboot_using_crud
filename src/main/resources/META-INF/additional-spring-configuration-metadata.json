@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "spring.hibernate.show_sql",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.hibernate.show_sql'"
+  },
+  {
+    "name": "spring.datasourec.url",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasourec.url'"
+  }
+]}
